@@ -1,0 +1,2 @@
+# Student-Result-Processing-System
+Proposed as a multi-user software, this Student Result Processing System is developed in Java programming language. The main aim of this project is to store the result scores of students, process the scores in user-defined way and produce their results in the form of report cards or other analysis charts. In this web-based software, both grading pattern and examination pattern are user configurable.
